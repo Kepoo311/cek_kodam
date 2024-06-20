@@ -1,0 +1,9 @@
+body {
+    background-image: url('../img/naga.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Mengatur tinggi elemen body sama dengan tinggi viewport */
+    margin: 0; /* Menghilangkan margin default pada body */
+    background-attachment: fixed; /* Menjaga latar belakang tetap pada posisinya saat halaman digulir */
+}
